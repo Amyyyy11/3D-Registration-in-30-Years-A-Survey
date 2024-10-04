@@ -29,7 +29,7 @@ In correspondence-based methods, a crucial step is the generation of corresponde
 
 **(2) Parameter searching-based methods.**
 
-##### 2.2.1.1 Correspondence-free Methods
+##### 2.2.1.2 Correspondence-free Methods
 
 #### 2.2.2 Deep-learning-based methods
 
