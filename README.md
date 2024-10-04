@@ -31,6 +31,38 @@ In correspondence-based methods, a crucial step is the generation of corresponde
 
 ##### 2.2.1.1 Correspondence-free Methods
 
+#### 2.2.2 Deep-learning-based methods
+
+##### 2.2.2.1 Supervised Methods
+
+###### 2.2.2.1.1 Non End-To-End
+
+**(1) Descriptor**
+
+**(2) Others**
+
+###### 2.2.2.1.2 End to End
+
+**(1) PointNet-based**
+
+**(2) Graph-based**
+
+**(3) ConvNet-based**
+
+**(4) Transformer-based**
+
+##### 2.2.2.2 Unsupervised Methods
+
+**(1) Self Reconstruction**
+
+**(2) Mutual Reconstruction**
+
+**(3) Metric Learning**
+
+**(4) Regstration Prior**
+
+**(5) Iteratively Registration**
+
 ## 4 Other Registration Problems 
 ### 4.1 Cross-scale Registration 
 #### 4.1.1 Traditional ICP-like methods 
