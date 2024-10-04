@@ -63,6 +63,22 @@ In correspondence-based methods, a crucial step is the generation of corresponde
 
 **(5) Iteratively Registration**
 
+### 2.3 Pairwise Fine Registration
+
+#### 2.3.1 ICP and its variants
+
+##### 2.3.1.1 Selection of Points
+
+##### 2.3.1.2 Matching Points
+
+##### 2.3.1.3 Weighting of Pairs
+
+##### 2.3.1.4 Rejecting Pairs
+
+##### 2.3.1.5 Error Metric and Minimization
+
+#### 2.3.2 others
+
 ## 3 Multi-view Registration
 
 ### 3.1 Multi-view Coarse Registration
