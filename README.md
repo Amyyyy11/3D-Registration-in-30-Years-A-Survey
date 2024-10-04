@@ -21,9 +21,15 @@ In correspondence-based methods, a crucial step is the generation of corresponde
 **(3) Matching technique.**
 ###### 2.2.1.1.2 Correspondence Optimization
 **(1) Voting-based methods.**
-**(1) Voting-free methods.**
-###### 2.2.1.1.3 Transformation Estimation
 
+**(2) Voting-free methods.**
+
+###### 2.2.1.1.3 Transformation Estimation
+**(1) Sample-based methods.**
+
+**(2) Parameter searching-based methods.**
+
+##### 2.2.1.1 Correspondence-free Methods
 
 ## 4 Other Registration Problems 
 ### 4.1 Cross-scale Registration 
