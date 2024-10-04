@@ -63,22 +63,44 @@ In correspondence-based methods, a crucial step is the generation of corresponde
 
 **(5) Iteratively Registration**
 
+## 3 Multi-view Registration
+
+### 3.1 Multi-view Coarse Registration
+
+Multi-view coarse registration aims to align point clouds from multiple views to form a coherent global model. 
+
+#### 3.1.1  Geometric methods
+
+##### (1) **Corresspondence**
+
+##### (2) connected graph
+
+#### 3.1.2  Learning-based methods
+
+##### (1)End-to-end
+
+##### (2)Feature Descriptors
+
+##### (3)Self-Supervised and Unsupervised
+
+##### (4)Others
+
 ## 4 Other Registration Problems 
 ### 4.1 Cross-scale Registration 
 #### 4.1.1 Traditional ICP-like methods 
-  
+
 #### 4.1.2 Deep-learning methods 
-  
+
 ### 4.2 Cross-source Registration 
 #### 4.2.1 Conventional Optimization methods 
-  
+
 #### 4.2.2 Deep Neural Network methods 
-  
+
 ### 4.3 Color Point Cloud Registration 
-  
+
 ### 4.4 Multi-instance Point Cloud Registration 
 #### 4.4.1 Multi-model Fitting methods 
-  
+
 #### 4.4.2 PPF-like methods 
-  
+
 ### 4.5 Sim2Real Registration 
