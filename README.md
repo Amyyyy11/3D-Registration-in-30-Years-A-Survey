@@ -12,11 +12,17 @@ This is the official repository of **3D Registration in 30 Years：ASurvey (IEEE
 #### 2.2.1 Geometric methods
 In correspondence-based methods, a crucial step is the generation of correspondences, which plays a key role in determining the accuracy and robustness of the registration process.
 
+##### 2.2.1.1 Correspondence-based Methods
+###### 2.2.1.1.1 Correspondence Generation
 **(1) Keypoint detection.**
 
 **(2) Descriptors.**
 
 **(3) Matching technique.**
+###### 2.2.1.1.2 Correspondence Optimization
+**(1) Voting-based methods.**
+**(1) Voting-free methods.**
+###### 2.2.1.1.3 Transformation Estimation
 
 
 ## 4 Other Registration Problems 
