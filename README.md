@@ -106,6 +106,17 @@ Multi-view coarse registration aims to align point clouds from multiple views to
 
 ##### (4)Others
 
+Multi-view fine registration 
+
+### 4.2 Multi-view Fine Registration
+
+#### 4.2.1 Point-based methods
+
+#### 4.2.2 Transformation-based methods
+
+#### 4.2.3 Optimization-based methods
+
+
 ## 5 Other Registration Problems 
 ### 5.1 Cross-scale Registration 
 #### 5.1.1 Traditional ICP-like methods 
