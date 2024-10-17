@@ -70,19 +70,17 @@ In correspondence-based methods, a crucial step is the generation of corresponde
 
 ### 3.3 Pairwise Fine Registration
 
-#### 3.3.1 ICP and its variants
+#### 3.3.1 ICP Based
 
-##### 3.3.1.1 Selection of Points
+##### 3.3.1.1 Sampling-aware
 
-##### 3.3.1.2 Matching Points
+##### 3.3.1.2 Matching-aware
 
-##### 3.3.1.3 Weighting of Pairs
+##### 3.3.1.3 error metric-aware
 
-##### 3.3.1.4 Rejecting Pairs
+#### 3.3.2 GMM based
 
-##### 3.3.1.5 Error Metric and Minimization
-
-#### 3.3.2 others
+#### 3.3.3 Others
 
 ## 4 Multi-view Registration
 
