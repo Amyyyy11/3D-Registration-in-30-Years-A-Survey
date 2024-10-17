@@ -76,7 +76,7 @@ In correspondence-based methods, a crucial step is the generation of corresponde
 
 ##### 3.3.1.2 Matching-aware
 
-##### 3.3.1.3 error metric-aware
+##### 3.3.1.3 Error metric-aware
 
 #### 3.3.2 GMM based
 
